@@ -6,7 +6,6 @@ classification algorithms.
 The objective is to train, evaluate, and compare different supervised learning models on labeled data
 and select the best-performing model.
 
----
 
 ## 🧠 Supervised Learning Algorithms Used
 The following classification algorithms have been implemented and evaluated:
@@ -19,7 +18,6 @@ The following classification algorithms have been implemented and evaluated:
 
 These models were trained on the same dataset to compare performance.
 
----
 
 ## ⚙️ Libraries & Tools
 - Python
@@ -30,7 +28,6 @@ These models were trained on the same dataset to compare performance.
 - XGBoost
 - Matplotlib / Seaborn (if used)
 
----
 
 ## 🔁 Model Training Approach
 All models were trained using a common training loop:
